@@ -5,3 +5,5 @@
 Welcome to my portfolio! My name is Asajad, and I am currently a student at ITHS studying AI and machinelearning with python.
 
 In high-school I studied in a programme called International Baccalaureate (IB), where I studied mathematics, physics and English at higher-level and Swedish, chemistry and economics and standard-level. 
+
+Later I went on to take a gap-year and the year after I started studying a physics degree in Gothenburg's University for two years. After the second year I decided to drop out to pursue my dream in programming, hence where I am at now.
